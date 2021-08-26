@@ -1,0 +1,86 @@
+.head {
+  height: 100px;
+    text-align: center;
+    padding:3cm;
+    background: rgb(147, 200, 237);
+  
+    background-size:cover;
+    
+    
+}
+
+
+
+h1{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+
+
+  
+}
+
+#small{
+
+    
+
+
+
+}
+
+#big {
+
+    font-weight: 200px;
+    color: red;
+    font-size: 1.1cm;
+    
+    
+}
+.images {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+#char {
+
+    height: 400px;
+    
+    width: 400px;
+    padding: 1cm;
+
+}
+
+p{
+    float: right;
+    margin-right: 400px;
+    margin-top: 100px;
+    font-size: 20px;
+    text-decoration: cur;
+}
+
+#info {
+
+    background : rgb(240, 238, 201);
+    height: 500px;
+    width: 100%
+
+}
+
+#para {
+
+    float: right;
+    height: 100px;
+    width:500px;
+    
+    margin-top: 100px;
+    width: 600px;
+    height: 400px;
+  
+    font-size: 1cm;
+    font-style: italic;
+    
+
+}
+
